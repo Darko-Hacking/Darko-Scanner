@@ -1,5 +1,5 @@
-+# ==========> Darko Scanner <==========
-+
+# ==========> Darko Scanner <==========
+
 Darko Scanner est un scanner de réseau.
 
 Darko Scanner est coder avec Python 2.7
