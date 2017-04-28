@@ -1,4 +1,4 @@
-<b>==========> Darko Scanner <==========</b>
+<h1 align="center">==========> Darko Scanner <==========</h1>
 
 Darko Scanner est un scanner de réseau.
 
